@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="260px" height="280px" viewBox="0 0 260 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>1 Hero Illus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="84" height="95"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="95" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="84" height="95"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="95" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="84" height="95"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="95" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jobs-API-Illustration" transform="translate(-821.000000, -505.000000)">
+            <g id="1-Hero-Illus" transform="translate(821.000000, 505.000000)">
+                <g id="Page-1-Copy-3" transform="translate(0.000000, 185.000000)">
+                    <use id="Rectangle" stroke="#CED7DB" mask="url(#mask-2)" stroke-width="6.93333333" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <path d="M35.7281201,25.1691906 L31.7338167,25.1691906 C30.7767996,25.1691906 30,25.9023047 30,26.8091286 L30,39.0335858 C30,39.9404097 30.7767996,40.6735238 31.7338167,40.6735238 L52.2692905,40.6735238 C53.2263076,40.6735238 54,39.9404097 54,39.0335858 L54,26.8091286 C54,25.9023047 53.2263076,25.1691906 52.2692905,25.1691906 L48.2749871,25.1691906 L48.2749871,21.7900939 C48.2749871,20.8008315 47.4298291,20 46.3858105,20 L37.6172967,20 C36.5732781,20 35.7281201,20.8008315 35.7281201,21.7900939 L35.7281201,25.1691906 Z M38.4562403,25.1671297 L45.5468669,25.1671297 L45.5468669,22.5820927 L38.4562403,22.5820927 L38.4562403,25.1671297 Z" id="Combined-Shape" fill="#CED7DB"></path>
+                    <polygon id="Fill-3" fill="#CED7DB" points="16 62.3125 68.6836213 62.3125 68.6836213 56 16 56"></polygon>
+                    <polygon id="Fill-3" fill="#CED7DB" points="21 73.3125 63.1645373 73.3125 63.1645373 67 21 67"></polygon>
+                </g>
+                <g id="Page-1-Copy-4" transform="translate(88.000000, 185.000000)">
+                    <use id="Rectangle" stroke="#EAEDEF" mask="url(#mask-4)" stroke-width="6.93333333" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <path d="M35.843076,25.2729295 L31.7686121,25.2729295 C30.7923889,25.2729295 30,26.0207563 30,26.945779 L30,39.4155651 C30,40.3405877 30.7923889,41.0884145 31.7686121,41.0884145 L52.7162061,41.0884145 C53.6924293,41.0884145 54.4816487,40.3405877 54.4816487,39.4155651 L54.4816487,26.945779 C54.4816487,26.0207563 53.6924293,25.2729295 52.7162061,25.2729295 L48.6417422,25.2729295 L48.6417422,21.8260188 C48.6417422,20.8169031 47.779623,20 46.7146523,20 L37.7701659,20 C36.7051952,20 35.843076,20.8169031 35.843076,21.8260188 L35.843076,25.2729295 Z M38.625946,25.2708272 L45.8588722,25.2708272 L45.8588722,22.6339119 L38.625946,22.6339119 L38.625946,25.2708272 Z" id="Combined-Shape" fill="#EAEDEF"></path>
+                    <polygon id="Fill-3" fill="#EAEDEF" points="16 62.3125 68.6836213 62.3125 68.6836213 56 16 56"></polygon>
+                    <polygon id="Fill-3" fill="#EAEDEF" points="21 73.3125 63.1645373 73.3125 63.1645373 67 21 67"></polygon>
+                </g>
+                <g id="Page-1-Copy-5" transform="translate(176.000000, 185.000000)">
+                    <use id="Rectangle" stroke="#CED7DB" mask="url(#mask-6)" stroke-width="6.93333333" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <path d="M35.843076,25.2729295 L31.7686121,25.2729295 C30.7923889,25.2729295 30,26.0207563 30,26.945779 L30,39.4155651 C30,40.3405877 30.7923889,41.0884145 31.7686121,41.0884145 L52.7162061,41.0884145 C53.6924293,41.0884145 54.4816487,40.3405877 54.4816487,39.4155651 L54.4816487,26.945779 C54.4816487,26.0207563 53.6924293,25.2729295 52.7162061,25.2729295 L48.6417422,25.2729295 L48.6417422,21.8260188 C48.6417422,20.8169031 47.779623,20 46.7146523,20 L37.7701659,20 C36.7051952,20 35.843076,20.8169031 35.843076,21.8260188 L35.843076,25.2729295 Z M38.625946,25.2708272 L45.8588722,25.2708272 L45.8588722,22.6339119 L38.625946,22.6339119 L38.625946,25.2708272 Z" id="Combined-Shape" fill="#CED7DB"></path>
+                    <polygon id="Fill-3" fill="#CED7DB" points="16 62.3125 68.6836213 62.3125 68.6836213 56 16 56"></polygon>
+                    <polygon id="Fill-3" fill="#CED7DB" points="21 73.3125 63.1645373 73.3125 63.1645373 67 21 67"></polygon>
+                </g>
+                <g id="Page-1-Copy" transform="translate(46.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#36464E" opacity="0.254582556" x="5.45523942" y="8.09090909" width="172.727273" height="209.090909"></rect>
+                    <rect id="Rectangle" fill="#EAEDEF" x="0" y="0" width="172" height="210"></rect>
+                    <path d="M75.0425985,46.5658923 L68.039745,46.5658923 C66.3618929,46.5658923 65,47.9225632 65,49.6006943 L65,72.2227737 C65,73.9009048 66.3618929,75.2575758 68.039745,75.2575758 L104.042747,75.2575758 C105.720599,75.2575758 107.077044,73.9009048 107.077044,72.2227737 L107.077044,49.6006943 C107.077044,47.9225632 105.720599,46.5658923 104.042747,46.5658923 L97.0398931,46.5658923 L97.0398931,40.3126744 C97.0398931,38.4819859 95.5581536,37 93.7277695,37 L78.3547221,37 C76.524338,37 75.0425985,38.4819859 75.0425985,40.3126744 L75.0425985,46.5658923 Z M79.8255665,46.5620783 L92.2569252,46.5620783 L92.2569252,41.7783149 L79.8255665,41.7783149 L79.8255665,46.5620783 Z" id="Combined-Shape" fill="#90CAF9"></path>
+                    <polygon id="Fill-3" fill="#90CAF9" points="41 108 131 108 131 95 41 95"></polygon>
+                    <g id="Group-2" transform="translate(22.950729, 128.949892)" fill="#90CAF9">
+                        <polygon id="Fill-6" points="55.9232755 9.05010823 127.185288 9.05010823 127.185288 0.0501082251 55.9232755 0.0501082251"></polygon>
+                        <polygon id="Fill-7" points="0 9.05010823 46.3604719 9.05010823 46.3604719 0.0501082251 0 0.0501082251"></polygon>
+                    </g>
+                    <polygon id="Fill-8" fill="#90CAF9" points="58 158 114 158 114 149 58 149"></polygon>
+                    <polygon id="Fill-12" fill="#90CAF9" points="36 178 136 178 136 169 36 169"></polygon>
+                </g>
+                <g id="Group-4" transform="translate(21.000000, 32.000000)">
+                    <rect id="Rectangle-2" fill="#009E55" x="0" y="0" width="50" height="50" rx="25"></rect>
+                    <polygon id="Shape" fill="#FFFFFF" points="18.8893824 32.7223011 11.4723456 25.3040309 9 27.7767876 18.8893824 37.6678146 40.080916 16.4727568 37.6085704 14"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
